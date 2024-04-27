@@ -1,0 +1,24 @@
+{
+  "name": "website-todo-list",
+  "version": "1.0.0",
+  "description": "'Website to do list'",
+  "main": "index.js",
+  "scripts": {
+    "test": "'We are going to do some testing'"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/karapk/commandline-todo.git"
+  },
+  "keywords": [
+    "Philip",
+    "Karanja",
+    "<kpk.my.mailings@gmail.com>"
+  ],
+  "author": "Philip Karanja <kpk.my.mailings@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/karapk/commandline-todo/issues"
+  },
+  "homepage": "https://github.com/karapk/commandline-todo#readme"
+}
